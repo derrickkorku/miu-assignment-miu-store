@@ -24,6 +24,7 @@ class Shop : AppCompatActivity() {
         binding.textViewWelcome.text = resources.getString(R.string.text_view_welcome) + " " +  intent.getStringExtra("email")
     }
 
+
     fun shopCategory(view: View) {
         when (view.id) {
             R.id.imageViewBook -> Toast.makeText(
