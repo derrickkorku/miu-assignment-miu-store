@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ecom App</string>
+    <string name="sign_in_label">Sign in to your account</string>
+    <string name="sign_in_email_label">Email address (required)</string>
+    <string name="signin_pwd_label"> Password (required) </string>
+    <string name="signin_forget_password_text">Forgot Password?</string>
+    <string name="btn_signin_text">Sign In</string>
+    <string name="label_dont_have_account">Don\'t have an account?</string>
+    <string name="btn_create_account">Create a new account</string>
+    <string name="txt_create_new_account">Create a new account</string>
+    <string name="label_create_your_account">Create your account</string>
+    <string name="label_required_field">* required field</string>
+    <string name="label_first_name_required">First Name *</string>
+    <string name="label_last_name_required">Last Name *</string>
+    <string name="label_email_required">Email Address *</string>
+    <string name="label_password_required">Password *</string>
+    <string name="text_view_welcome">Welcome</string>
+    <string name="label_shop_by_category">Shop by Category</string>
+    <string name="label_books">Books</string>
+    <string name="label_clothing">Clothing</string>
+    <string name="label_medicines">Medicines</string>
+    <string name="label_organic_food">Organic Foods</string>
+    <string name="text_book_category_clicked">Book Category Clicked</string>
+    <string name="text_medicines_category_clicked">Medicines Category Clicked</string>
+    <string name="text_organic_food_category_clicked">Organic Foods Category Clicked</string>
+    <string name="text_clothing_category_clicked">Clothing Category Clicked</string>
+    <string name="text_unknown">Unknown Category</string>
+</resources>
